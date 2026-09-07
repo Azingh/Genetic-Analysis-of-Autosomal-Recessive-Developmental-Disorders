@@ -1,2 +1,1 @@
-Clinical and Pedigree Evaluation of Familial Developmental Impairment 
-Pedigree analysis showed unaffected parents with affected children, suggesting autosomal recessive inheritance. An annotated VCF was filtered by allele frequency, variant type, and zygosity. Candidate genes were assessed using gnomAD, ClinVar, OMIM, GeneCards, DECIPHER, Franklin, and Iranome for clinical significance and phenotype matching.
+
